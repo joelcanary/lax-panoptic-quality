@@ -2,9 +2,13 @@ specVersion: "1"
 id: lax-303562
 leanVersion: "v4.33.0"
 mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
-title: "Panoptic Quality: exact rules for inclusion, removal and duplication, the sharpness of the matching threshold, and the annotator ceiling"
+title: "Panoptic Quality: exact rules for inclusion, removal and duplication,
+  the sharpness of the matching threshold, and the annotator ceiling"
 authors:
   - name: Joel Cruz Cabrera
     orcid: "0009-0005-4048-1237"
     github: joelcanary
 bibEntries: []
+issue:
+  repositoryId: 1320232165
+  number: 129

@@ -60,14 +60,8 @@ The pins are in `manifest.yaml`; the archive's build of this commit
 
 ## Related
 
-- The four records and their live counts: https://kodamaseclabs.com/publications
+- The five records and their live counts: https://kodamaseclabs.com/publications
 - Used to choose the operating point of a solar-filament segmentation pipeline (IEEE Big Data Cup 2026) and to diagnose a metric-inflating evaluator.
-
-## Further references
-
-These are references for the reader of this repository. The record's own text and bibliography (`abstract.md`, `manifest.yaml`) are fixed by the registration; a correction there would be a new record that supersedes this one.
-
-- A. Kirillov, K. He, R. Girshick, C. Rother, P. Dollár, *Panoptic Segmentation*, CVPR 2019, 9396–9405. [doi:10.1109/CVPR.2019.00963](https://doi.org/10.1109/CVPR.2019.00963), [arXiv:1801.00868](https://arxiv.org/abs/1801.00868) — the metric itself. The uniqueness of matches at IoU > 1/2, the first statement formalized here (`Matching.lean`), is their Theorem 1; the record proves it, it does not discover it. The record's own bibliography is empty.
 
 ## Use of AI
 
